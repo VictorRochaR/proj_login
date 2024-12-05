@@ -1,4 +1,4 @@
-# Gifter - CRUD Flutter N2
+# Firebase - LOGIN Flutter N3
 Projeto avaliativo 4º Semestre de Engenharia de Software, na matéria de Desenvolvimento Mobile.
 
 ## Integrantes do Grupo
